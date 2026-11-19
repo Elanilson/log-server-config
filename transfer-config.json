@@ -1,13 +1,13 @@
 {
     "protocol":  1,
-    "endpoint1":  "aHR0cHM6Ly85NzhhMmIwOTdhZmM0MTE3YjlhMzM5YjE1OTFjMGZmNy50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint2":  "aHR0cHM6Ly9mMWUwZWRlYmVhNmQ0NjE2YmVjNThhODU4NjdiMzM3ZS50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint3":  "aHR0cHM6Ly8yMWFiMzYyMDJjMzQ0YjlkOTRiZDdiZjkwZTZhMmI5Mi50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint4":  "aHR0cHM6Ly9hY2RlZmE2M2Q3ODY0N2ZmOTJkNWUyYzVlNzk2YTg2My50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint5":  "aHR0cHM6Ly9zaG93ZXItYWR3YXJlLXBhaXItc3VyZ2ljYWwudHJ5Y2xvdWRmbGFyZS5jb20=",
-    "endpoint6":  "aHR0cHM6Ly8zNzZjYjc5MjM0Zjc0NGI4OGJiNGI3ZjdkNWE5MTFkYi50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint7":  "aHR0cHM6Ly9lYzdlMTlhMzRkMTU0MjA3ODRhZWM2NDQ4OGRhYzA1Ni50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint8":  "aHR0cHM6Ly8zYjk5ZDI0MzQ0MDQ0NmZkYTRiZTdjMzgyOGE4ZmIxOC50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint9":  "aHR0cHM6Ly9lM2U5M2NlNGUzYjM0MGFlOWY3M2RiOTg1YzQzOGM2Ni50cnljbG91ZGZsYXJlLmludmFsaWQ=",
-    "endpoint10":  "aHR0cHM6Ly9mMzRlZTA0NzY4MTE0ODRkYjRiZDliZTczNGYyMzAxOC50cnljbG91ZGZsYXJlLmludmFsaWQ="
+    "endpoint1":  "aHR0cHM6Ly81ZmZhYmUzNDdhNTA0OTMzOGIxOTU1NWQ0NTcxMjBlOC50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint2":  "aHR0cHM6Ly84YjRmZmE3Y2YyYTU0ZTZlOWIxNjRmNWNiYjM4MDZkOS50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint3":  "aHR0cHM6Ly84NTU2YTg3M2IyMWE0ZTJlYTU4OGZiNDEyZmQ5MWNhZC50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint4":  "aHR0cHM6Ly9mODFkZWUzZDY5ZTU0YmZiYTZjOGUyMzZhNTk0YzI5Yi50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint5":  "aHR0cHM6Ly9jcmVhdGlvbnMtbW90aGVyYm9hcmQtc2tpLWhhcm1vbnkudHJ5Y2xvdWRmbGFyZS5jb20=",
+    "endpoint6":  "aHR0cHM6Ly84NTgzNjRhYTBhMDM0OTQ3OTdmMzcwZDZlOTY2MTY0Ny50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint7":  "aHR0cHM6Ly9mMGUzNzI3YmE3NDM0NDJjOWNlNTU0ZjRmMTFlZmI0ZS50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint8":  "aHR0cHM6Ly8wZDlhOThiOTg3MWE0MmU0OTFmYTNhMTgwZGQ1M2I3NC50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint9":  "aHR0cHM6Ly8wY2RjYmFjMWFlMjE0N2VkYTFlMzRjMDAxZDA0ZTExNC50cnljbG91ZGZsYXJlLmludmFsaWQ=",
+    "endpoint10":  "aHR0cHM6Ly9mN2U3YTQzOTFiN2U0YWVjOWQwYTNhYzI4OTA2ZmUxYi50cnljbG91ZGZsYXJlLmludmFsaWQ="
 }
